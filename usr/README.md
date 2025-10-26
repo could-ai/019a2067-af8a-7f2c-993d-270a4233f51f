@@ -1,10 +1,9 @@
-# Hand Drawing Game
+# Flutter Calculator
 
-This is a Flutter application that allows you to take a picture of your hand and draw on it.
+A simple and functional calculator application built with Flutter.
 
 ## Features
 
-- Live camera preview.
-- Capture images.
-- Draw on the captured images with different colors and brush sizes.
-- Save the edited image to your device.
+- Basic arithmetic operations: addition, subtraction, multiplication, division.
+- Clear and backspace functionality.
+- A clean and user-friendly interface.
